@@ -18,8 +18,6 @@
         <exclude name="PSR12.Properties.ConstantVisibility.NotFound"/>
         <exclude name="PSR2.Classes.ClassDeclaration.OpenBraceNewLine"/>
         <exclude name="PSR2.ControlStructures.ElseIfDeclaration.NotAllowed"/>
-        <exclude name="PSR2.Methods.FunctionCallSignature.ContentAfterOpenBracket"/>
-        <exclude name="PSR2.Methods.FunctionCallSignature.MultipleArguments"/>
         <exclude name="Squiz.Classes.ValidClassName.NotCamelCaps"/>
         <exclude name="Squiz.Functions.MultiLineFunctionDeclaration.BraceOnSameLine"/>
     </rule>
