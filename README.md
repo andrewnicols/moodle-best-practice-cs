@@ -14,4 +14,6 @@ composer global config repositories.moodle-local_codechecker vcs https://github.
 composer global require moodlehq/moodle-local_codechecker="dev-composer"
 ```
 3. Install this package
+```
 composer global require andrewnicols/moodlebestpractice
+```
