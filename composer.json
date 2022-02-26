@@ -10,12 +10,8 @@
     ],
     "require": {
         "drupal/coder": "^8.3",
-        "moodlehq/moodle-local_codechecker": "dev-composer"
+        "moodlehq/moodle-local_codechecker": "^3.1"
     },
-    "repositories": [{
-        "type": "vcs",
-        "url": "https://github.com/andrewnicols/moodle-local_codechecker"
-    }],
     "license": "GPL-2.0-or-later",
     "config": {
         "allow-plugins": {
